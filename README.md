@@ -1,4 +1,3 @@
-# Gesture-Controlled-Music-Player
 # Gesture-Controlled Music Player using Arduino UNO
 
 ## 1. Project Overview
